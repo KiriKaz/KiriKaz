@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/qkjrmid" target="blank"><img src="https://img.shields.io/twitter/follow/qkjrmid?logo=twitter&style=for-the-badge" alt="qkjrmid" /></a> </p>
 
-- 🔭 I’m currently working on [Halls](https://github.com/KiriKaz/Halls), a website for innovative writing of stories
+- 🔭 I’m currently working on [Halls](https://github.com/KiriKaz/Halls), a website for innovative writing of stories, and [devio-challenge](https://github.com/KiriKaz/devio-challenge), a technical challenge for the company Devio.
 
 - 🌱 I’m currently learning **the MERN stack, microservices, and event handling with containers**.
 
